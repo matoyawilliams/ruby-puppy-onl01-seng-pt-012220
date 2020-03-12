@@ -28,7 +28,6 @@ def self.save
   def self.clear_all
     @@all.clear
   end
-
 end
 
 pluto.save
