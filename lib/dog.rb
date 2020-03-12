@@ -13,13 +13,13 @@ class Dog
     @@all.each do |dog|
       puts dog.name
     end
-  end
+
   
   def self.all
     @@all.each do |dog|
       puts dog.name
     end
-  end
+
 
 def self.save
     @@all.each do |dog|
