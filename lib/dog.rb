@@ -30,3 +30,5 @@ def self.save
   end
 
 end
+
+pluto.save
